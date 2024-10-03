@@ -4,6 +4,20 @@ I developed the Frontend Part and the Backend part is ongoing.
 
 This project is an Online Doctor Appointment Booking System developed using modern web technologies to streamline the process of booking appointments for patients and managing schedules for doctors.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🛠️ Technologies:
 Frontend: React.js (responsive, user-friendly UI)
 Backend: Node.js, Express (API development)
